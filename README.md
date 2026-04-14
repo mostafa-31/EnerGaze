@@ -22,8 +22,11 @@ It also supports **scheduling** and **basic automation** (temperature, humidity,
 
 ![Smart Load Management & Scheduling](assets/smart-load-management-scheduling.png)
 
+### Circuit Diagram
 
-### Hardware (block diagram)
+![EnerGaze circuit diagram](assets/circuit-diagram.png)
+
+### Hardware Implementation
 
 ![EnerGaze hardware diagram](assets/hardware.png)
 
