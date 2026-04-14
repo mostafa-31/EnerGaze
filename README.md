@@ -12,25 +12,24 @@ It also supports **scheduling** and **basic automation** (temperature, humidity,
 
 ### Secure Authentication Gateway
 
-![Secure Authentication Gateway](assets/secure-auth-gateway.svg)
+![Secure Authentication Gateway](assets/secure-auth-gateway.png)
 
 ### Live Analytics & Data Monitoring
 
-![Live Analytics & Data Monitoring](assets/live-analytics-monitoring.svg)
+![Live Analytics & Data Monitoring](assets/live-analytics-monitoring.png)
 
 ### Smart Load Management & Scheduling
 
-![Smart Load Management & Scheduling](assets/smart-load-management-scheduling.svg)
+![Smart Load Management & Scheduling](assets/smart-load-management-scheduling.png)
 
-> Replace any of the mock SVGs above with real screenshots (keep the same filenames), or switch the links to `.png`/`.jpg` screenshots.
 
 ### Hardware (block diagram)
 
-![EnerGaze hardware diagram](assets/hardware.svg)
+![EnerGaze hardware diagram](assets/hardware.png)
 
-> Replace this mock with a real photo by saving it as `assets/hardware.jpg` and adding it here.
 
----
+
+
 
 ## Features
 
