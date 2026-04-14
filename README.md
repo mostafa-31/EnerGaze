@@ -10,11 +10,19 @@ It also supports **scheduling** and **basic automation** (temperature, humidity,
 
 ## Pictures
 
-### Dashboard (local web UI)
+### Secure Authentication Gateway
 
-![EnerGaze dashboard](assets/dashboard.svg)
+![Secure Authentication Gateway](assets/secure-auth-gateway.svg)
 
-> Replace this mock with a real screenshot by saving it as `assets/dashboard.png` (or overwrite `assets/dashboard.svg`) and updating the link above.
+### Live Analytics & Data Monitoring
+
+![Live Analytics & Data Monitoring](assets/live-analytics-monitoring.svg)
+
+### Smart Load Management & Scheduling
+
+![Smart Load Management & Scheduling](assets/smart-load-management-scheduling.svg)
+
+> Replace any of the mock SVGs above with real screenshots (keep the same filenames), or switch the links to `.png`/`.jpg` screenshots.
 
 ### Hardware (block diagram)
 
